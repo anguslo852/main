@@ -1,0 +1,162 @@
+body {
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 1.2rem;
+}
+
+h1 {
+  color: #66bfbf;
+  font-size: 5.625rem;
+  margin: 50px auto 5px auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #66bfbf;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding: 10px;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border: dotted 6px;
+  border-bottom: none;
+  color: lightgrey;
+  width: 5%;
+  margin: 100px auto;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+.job-insurance-agent {
+  color: #66bfbf;
+}
+
+.top-container {
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+}
+
+
+.about-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.degree-img {
+  float: left;
+  margin-right: 30px;
+  margin-bottom: 20px;
+}
+
+.worldwide-img {
+  float: right;
+  margin-left: 30px;
+}
+
+.middle-container {
+  margin: 100px auto;
+}
+
+
+.bottom-container {
+  background-color: #c5ded7;
+  padding: 50px 0 20px 0;
+}
+
+.intro {
+  width: 50%;
+  margin:auto;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px auto;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 30%;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 30%;
+  bottom: 300px;
+}
+
+.WX-Public {
+  color: #45b29a;
+}
+
+.btn {
+  color: #11999E;
+}
+
+.footer-link {
+  color: #11999E;
+}
+
+.footer-link:hover {
+  color: #eaf6f6;
+}
+
+.copyright {
+  color: #eaf6f6;
+  font-size: 1rem;
+  padding: 20px 0;
+}
+
+
+.btn {
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   color: #FFFFFF;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 1.5rem;
+   font-weight: 100;
+   padding: 10px;
+   /* border-color-hover: ;
+   border-style-hover: solid;
+   border-width-hover: 0; */
+   background-color: #45B29A;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+   background: #30E3CB;
+   background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -webkit-gradient(to bottom, #30E3CB, #2BC4AD);
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   text-decoration: none;
+}
